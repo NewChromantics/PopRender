@@ -1,0 +1,21 @@
+The evolving goal of this library is to
+- [ ] In a cross platform manner, provide a single API and shared/platform agnostic set of API & shader code & commands
+  - [ ] ios lib
+  - [ ] ios swift (for use in/as swiftui view)
+  - [ ] tvos
+  - [ ] macos
+  - [ ] windows
+  - [ ] android
+  - [ ] linux docker
+  - [ ] node.js
+  - [ ] linux ubuntu
+  - [ ] linux pi
+  - [ ] UWP (windows, hololens)
+  - [ ] web
+  - [ ] Unity package (ie, c# api)
+- [ ] Input an image + frag shaders (for a series of blits) + parameters and get an image output
+  - [ ] Run the same shader with new input image + parameters for sequenced input/output
+- [ ] Provide alternative meshes & vertex shaders & instancing parameters to allow rendering of a scene
+- [ ] End up with portable sets of commands+params to share GPGPU/computer vision tasks, which can be developed on one platform quickly (eg web) and deployed (to say a docker webservice)
+- [ ] Be a GPGPU component of a game engine
+- [ ] Be a rendering component of an arbritary game engine (specificially replacing https://github.com/NewChromantics/PopEngine )
