@@ -4,6 +4,7 @@ The evolving goal of this library is to
   - [ ] ios swift (for use in/as swiftui view)
   - [ ] tvos
   - [ ] macos
+  - [ ] macos catalyst/macos swiftui
   - [ ] windows
   - [ ] android
   - [ ] linux docker
