@@ -1,5 +1,5 @@
 The evolving goal of this library is to
-- [ ] In a cross platform manner, provide a single API and shared/platform agnostic set of API & shader code & commands
+- [ ] In a cross platform manner, with minimal dependencies (ideally, OS only), provide a single API and shared/platform agnostic set of API & shader code & commands
   - [ ] ios lib
   - [ ] ios swift (for use in/as swiftui view)
   - [ ] tvos
